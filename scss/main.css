@@ -62,5 +62,10 @@
     margin-left: auto;
     margin-top: 3vw;
     width: 48vw;
+    height: 22vw;
+  }
+  .conteiner .conteiner-box .box-seven,
+  .conteiner .conteiner-box .box-one {
+    height: 48vw;
   }
 }/*# sourceMappingURL=main.css.map */
